@@ -21,6 +21,10 @@ Key Features:
 ## Support matrix
 Python - 3.11
 
+## Flowchart
+<img width="1452" alt="Screenshot 2025-05-05 at 12 04 28 PM" src="https://github.com/user-attachments/assets/5252c489-80f3-47de-aea5-236fb8e08814" />
+
+
 ## Installation
 
 1. Install `uv` package manager: https://docs.astral.sh/uv/getting-started/installation/
