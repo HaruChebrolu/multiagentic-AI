@@ -7,15 +7,16 @@ This project implements an intelligent, multi-agent orchestration system for mon
 Key Features:
 - 🔍 **Cluster Status Evaluation** via CephViz Agent  
 - 📊 **Performance & Disk Analysis** via Observability Agent  
-- 🐞 **Bug Monitoring** via CephBugAgent (Bugzilla Integration)  
-- 📚 **Ceph Docs Lookup** via CephDocAgent  
-- 🧠 **Automated Health Recommendations** via CephAdvisor Agent  
+- 🐞 **Bug Monitoring** via BugIntelligence Agent (Bugzilla Integration)  
+- 📚 **Ceph Docs Lookup** via Maverick Agent  
+- 🧠 **Automated Health Recommendations** via CephPerf Agent  
 - 🤖 **Hierarchical Task Planning** using CrewAI-style orchestration  
 
 
 🧱 Built With:
 - Python, [CrewAI](https://github.com/joaomdmoura/crewAI), LangChain Tools
 - Ceph CLI + SSH, Metrics via PostgreSQL, Bugzilla API, Ceph Docs Search
+
 
 ## Support matrix
 Python - 3.11
